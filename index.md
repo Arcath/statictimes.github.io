@@ -1,5 +1,8 @@
 ---
+title: Static Times
 ---
 
-# Static Times
+# {{page.title}}
+
+Welcome
 
