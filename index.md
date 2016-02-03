@@ -4,5 +4,5 @@ title: Static Times
 
 # {{page.title}}
 
-Welcome
+Welcome. Follow along [@statictimes](http://twitter/statictimes).
 
